@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.nbi
+*.nbc
+
+# Ambientes virtuais
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Resultados brutos
+results/raw/
+outputs/
+frames/
+*.npz
+*.npy
+*.mp4
+
+# Editores e sistema operacional
+.vscode/
+.DS_Store
+Thumbs.db
